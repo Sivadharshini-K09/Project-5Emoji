@@ -1,0 +1,70 @@
+/* .container{
+    border: 2px solid black;
+    height: 100px;
+    width: 100px;
+    background-color:yellow;
+    margin-left: 50px;
+    padding: 50px;
+    border-radius: 100%;
+    box-shadow: 3px 3px 3px 3px black;
+}
+ */
+
+.face{
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+    border-radius:100%;
+    position: relative;
+} 
+
+.Reye{
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    border-radius: 100%;
+    position: absolute;
+    top: 50px;
+    left: 40px;
+    overflow: hidden;
+}
+.Leye{
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    border-radius: 100%;
+    position: absolute;
+    top: 50px;
+    left: 130px;
+}
+
+.reye{
+    height: 25px;
+    width: 25px;
+    background-color: white;
+    border-radius: 100%;
+    position: absolute;
+    top: 55px;
+    left: 45px;
+}
+
+.leye{
+    height: 25px;
+    width: 25px;
+    background-color: white;
+    border-radius: 100%;
+    position: absolute;
+    top: 55px;
+    left: 135px;
+}
+
+.mouth{
+    border: 5px solid black;
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+    border-color:  transparent transparent black transparent;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
